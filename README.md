@@ -16,6 +16,6 @@ To start the api please do the following steps:
 You can test it with Postman or just by using Swagger.
 The endpoint is: "https://localhost:7077/swagger", "https://localhost:7077/notes"
 
-I spend about 2 hours and there are a lot points for improvement, but the first version is api is working fine. 
+I spend about 2 hours and there are still a lot of points for improvement, but the first version of api is working fine. 
 
 Next step I would add Unit Tests, do some refactoring - for instance add authenctfication for MongoDB, add new fucntionality and refactor exsiting when requirements will be specified. Also I would create a frontend.
